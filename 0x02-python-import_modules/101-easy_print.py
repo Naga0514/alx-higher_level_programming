@@ -1,1 +1,2 @@
-yifuhi8oyyueyjv
+#!/usr/bin/python3
+import ditto
